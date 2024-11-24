@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(https://th.bing.com/th/id/R.790153674a994fa96fb4ce5d33d23bc6?rik=7UiaXeHJw88D5w&riu=http%3a%2f%2fonlinetests.byjusclasses.com%2fLibrary%2fassets%2fimages%2floginimg.jpg&ehk=7Jug8R97CCYlpN0Xq%2fqtuJMeBXd0vHJgqa1NzcRFjw0%3d&risl=&pid=ImgRaw&r=0);
+   background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.sign-up-form{
+ width: 300px;
+ background:rgba(1, 4, 13, 0.4);
+ padding: 28px;
+ margin: 8% auto 0;
+text-align: center;
+
+
+}
+.sign-up-form h1{
+    color: #28cb79;
+    margin-bottom: 30px;
+}
+.sign-up-form p{
+    color: #fff;
+}
+.input-box
+{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid #999;
+    outline: none;
+}
+button{
+    color: rgb(253, 248, 248);
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.signup-btn{
+    
+    background-color: #06243a;
+}
+.twitter-btn
+{
+   background-color: #af2157;
+}
+a{
+    text-decoration: none;
+}
+hr{
+    margin-top: 20px;
+    width: 80%;
+
+}
+.or{
+    width: 30px;
+    background:black;
+    margin: -19px auto 10px;
+}
